@@ -31,4 +31,4 @@ Data Analyst with strong skills in Python, SQL, Excel, Power BI, and statistics,
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitanshu480&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=hitanshusekhardas&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hitanshu480&theme=tokyonight)
